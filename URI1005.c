@@ -1,5 +1,5 @@
 #include<stdio.h>
-//1005
+//1005 Soluction in C
 
  int main() {
  	
